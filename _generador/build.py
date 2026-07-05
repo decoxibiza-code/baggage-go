@@ -694,7 +694,14 @@ def plan():
             register("blog_"+a["id"], lang, LANG_BASE[lang]+SEG_BLOG[lang]+"/"+a["slug"][lang]+".html", 0.5)
 
 def url_abs(path):
-    return DOMAIN + "/" + path if path else DOMAIN + "/"
+    # Cloudflare Pages sirve URLs limpias (sin .html); canonical/hreflang/sitemap/JSON-LD
+    # deben apuntar a la URL limpia para evitar redirects 308 e incoherencias de canonical.
+    p = path or ""
+    if p.endswith("index.html"):
+        p = p[:-len("index.html")]   # index.html -> ""  ·  en/index.html -> en/
+    elif p.endswith(".html"):
+        p = p[:-5]
+    return DOMAIN + "/" + p
 
 def rel(from_path, to_path):
     """URL relativa (para file:// y hosting) de from_path a to_path."""
