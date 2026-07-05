@@ -240,11 +240,14 @@ SERVICES = [
   },
   "faq":{
     "es":[("¿Cuánto cuesta una mudanza pequeña?","Desde 300 € una mudanza local de un piso pequeño. Preparamos un presupuesto a medida según volumen, distancia y extras."),
-          ("¿Hacéis mudanzas a la península o internacionales?","Coordinamos traslados a península e internacionales mediante grupaje; pídenos presupuesto.")],
+          ("¿Hacéis mudanzas a la península o internacionales?","Coordinamos traslados a península e internacionales mediante grupaje; pídenos presupuesto."),
+          ("¿Hacéis mudanzas urgentes o mini mudanzas?","Sí. Hacemos mudanzas urgentes, exprés y mini mudanzas de pisos pequeños, estudios o habitaciones sueltas, con reserva rápida y precio cerrado.")],
     "en":[("How much is a small move?","From €300 for a local move of a small flat. We prepare a custom quote based on volume, distance and extras."),
-          ("Do you do moves to the mainland or international?","We coordinate mainland and international moves via groupage; ask us for a quote.")],
+          ("Do you do moves to the mainland or international?","We coordinate mainland and international moves via groupage; ask us for a quote."),
+          ("Do you do urgent or small (mini) moves?","Yes. We do urgent, express and mini moves of small flats, studios or single rooms, with quick booking and a fixed price.")],
     "de":[("Was kostet ein kleiner Umzug?","Ab 300 € für einen lokalen Umzug einer kleinen Wohnung. Wir erstellen ein individuelles Angebot nach Umfang, Entfernung und Extras."),
-          ("Macht ihr Umzüge aufs Festland oder international?","Wir koordinieren Festland- und internationale Umzüge per Sammelladung; frag uns nach einem Angebot.")],
+          ("Macht ihr Umzüge aufs Festland oder international?","Wir koordinieren Festland- und internationale Umzüge per Sammelladung; frag uns nach einem Angebot."),
+          ("Macht ihr dringende Umzüge oder Mini-Umzüge?","Ja. Wir machen dringende, Express- und Mini-Umzüge von kleinen Wohnungen, Studios oder einzelnen Zimmern, mit schneller Buchung und Festpreis.")],
   },
  },
  {
@@ -349,6 +352,40 @@ SERVICES = [
           ("How much is bike transport?","From €18 per bike and day. For groups and multiple stages we prepare a custom quote.")],
     "de":[("Transportiert ihr das Fahrrad vom Flughafen?","Ja, wir holen dein Fahrrad am Flughafen PMI ab und liefern es zu deinem Hotel oder deiner Villa, montiert oder verpackt."),
           ("Was kostet der Fahrradtransport?","Ab 18 € pro Rad und Tag. Für Gruppen und mehrere Etappen erstellen wir ein individuelles Angebot.")],
+  },
+ },
+ {
+  "id":"portes",
+  "slug":{"es":"portes-palma-mallorca","en":"man-with-a-van-mallorca","de":"moebeltransport-mallorca"},
+  "icon":'<path d="M12 3l8 4v8l-8 4-8-4V7z"/><path d="M4 7l8 4 8-4M12 11v8"/>',
+  "title":{"es":"Portes en Palma de Mallorca: muebles y mini mudanzas | BaggageGo",
+           "en":"Man with a van in Mallorca: furniture & small moves | BaggageGo",
+           "de":"Möbeltransport auf Mallorca: Möbel & kleine Umzüge | BaggageGo"},
+  "desc":{"es":"Portes económicos en Palma de Mallorca: transporte de muebles sueltos, mini mudanzas, sofás, colchones y compras de IKEA. Rápido, urgente y asegurado.",
+          "en":"Man with a van in Mallorca: transport of single furniture items, small moves, sofas, mattresses and IKEA purchases. Fast, urgent and insured.",
+          "de":"Möbeltransport auf Mallorca: Einzelmöbel, kleine Umzüge, Sofas, Matratzen und IKEA-Einkäufe. Schnell, dringend und versichert."},
+  "h1":{"es":"Portes en Palma de Mallorca","en":"Man with a van in Mallorca","de":"Möbeltransport auf Mallorca"},
+  "intro":{"es":"¿Necesitas mover un mueble, un sofá o hacer una mini mudanza sin contratar un camión entero? Nuestros portes en Palma y toda Mallorca son rápidos, económicos y con opción urgente.",
+           "en":"Need to move a piece of furniture, a sofa or do a small move without hiring a whole truck? Our man-with-a-van service in Palma and across Mallorca is fast, affordable and available urgently.",
+           "de":"Musst du ein Möbelstück oder ein Sofa bewegen oder einen kleinen Umzug machen, ohne einen ganzen Lkw zu mieten? Unser Möbeltransport in Palma und auf ganz Mallorca ist schnell, günstig und auch dringend verfügbar."},
+  "secs":{
+    "es":[("Portes y transporte de muebles sueltos","Llevamos sofás, colchones, electrodomésticos, cajas o cualquier mueble suelto de un punto a otro. Ideal para compras de IKEA o Leroy Merlín, ventas de segunda mano y traslados puntuales.",
+           ["Furgoneta con conductor y, si hace falta, ayudante.","Servicio urgente y en el mismo día.","Montaje y desmontaje de muebles a petición."]),
+          ("Mini mudanzas rápidas","Para estudios, habitaciones o pisos pequeños, una mini mudanza es más rápida y barata que una mudanza completa. Reserva ágil y precio cerrado.",[])],
+    "en":[("Single-item furniture transport","We move sofas, mattresses, appliances, boxes or any single furniture item from A to B. Ideal for IKEA or Leroy Merlín purchases, second-hand sales and one-off transfers.",
+           ["A van with driver and, if needed, a helper.","Urgent, same-day service.","Furniture assembly and disassembly on request."]),
+          ("Fast small moves","For studios, single rooms or small flats, a small move is faster and cheaper than a full removal. Quick booking and a fixed price.",[])],
+    "de":[("Transport einzelner Möbelstücke","Wir bewegen Sofas, Matratzen, Geräte, Kartons oder jedes einzelne Möbelstück von A nach B. Ideal für IKEA- oder Leroy-Merlín-Einkäufe, Gebrauchtverkäufe und einmalige Transporte.",
+           ["Transporter mit Fahrer und bei Bedarf Helfer.","Dringender Service, am selben Tag.","Möbelmontage und -demontage auf Anfrage."]),
+          ("Schnelle kleine Umzüge","Für Studios, einzelne Zimmer oder kleine Wohnungen ist ein kleiner Umzug schneller und günstiger als ein kompletter Umzug. Schnelle Buchung und Festpreis.",[])],
+  },
+  "faq":{
+    "es":[("¿Cuánto cuesta un porte en Palma de Mallorca?","Los portes suelen ir desde 20–50 € según el volumen, la distancia y la urgencia. Cuéntanos qué necesitas mover y te damos precio al momento."),
+          ("¿Hacéis portes urgentes o en el mismo día?","Sí, ofrecemos portes urgentes y en el día siempre que haya disponibilidad.")],
+    "en":[("How much is a man with a van in Mallorca?","Small transport jobs usually start from €20–50 depending on volume, distance and urgency. Tell us what you need to move and we quote right away."),
+          ("Do you do urgent or same-day jobs?","Yes, we offer urgent and same-day service subject to availability.")],
+    "de":[("Was kostet ein Möbeltransport auf Mallorca?","Kleine Transporte beginnen meist bei 20–50 € je nach Umfang, Entfernung und Dringlichkeit. Sag uns, was du bewegen musst, und wir nennen sofort den Preis."),
+          ("Macht ihr dringende Transporte am selben Tag?","Ja, wir bieten dringenden Service am selben Tag, sofern verfügbar.")],
   },
  },
 ]
@@ -824,9 +861,9 @@ def cta_band(lang, out_path):
 # related services block
 def related_services(lang, out_path, exclude=None):
     ui = UI[lang]
-    names = {"es":{"aeropuerto":"Entrega desde el aeropuerto","consigna":"Consigna de equipaje","ciclistas":"Equipaje para ciclistas","mudanzas":"Mudanzas exprés","mercancias":"Transporte de mercancías","guardamuebles":"Guardamuebles","bicicletas":"Transporte de bicicletas"},
-             "en":{"aeropuerto":"Airport delivery","consigna":"Luggage storage","ciclistas":"Cyclist luggage","mudanzas":"Express moving","mercancias":"Cargo van & goods","guardamuebles":"Storage","bicicletas":"Bike transport"},
-             "de":{"aeropuerto":"Flughafen-Lieferung","consigna":"Gepäckaufbewahrung","ciclistas":"Radfahrer-Gepäck","mudanzas":"Express-Umzüge","mercancias":"Warentransport","guardamuebles":"Einlagerung","bicicletas":"Fahrradtransport"}}[lang]
+    names = {"es":{"aeropuerto":"Entrega desde el aeropuerto","consigna":"Consigna de equipaje","ciclistas":"Equipaje para ciclistas","mudanzas":"Mudanzas exprés","mercancias":"Transporte de mercancías","guardamuebles":"Guardamuebles","bicicletas":"Transporte de bicicletas","portes":"Portes y muebles"},
+             "en":{"aeropuerto":"Airport delivery","consigna":"Luggage storage","ciclistas":"Cyclist luggage","mudanzas":"Express moving","mercancias":"Cargo van & goods","guardamuebles":"Storage","bicicletas":"Bike transport","portes":"Man with a van"},
+             "de":{"aeropuerto":"Flughafen-Lieferung","consigna":"Gepäckaufbewahrung","ciclistas":"Radfahrer-Gepäck","mudanzas":"Express-Umzüge","mercancias":"Warentransport","guardamuebles":"Einlagerung","bicicletas":"Fahrradtransport","portes":"Möbeltransport"}}[lang]
     cards = ""
     for s in SERVICES:
         if s["id"]==exclude: continue
@@ -940,21 +977,21 @@ def build_home(lang):
              "sub":"Recogemos tu equipaje en el aeropuerto, hotel o villa y lo entregamos donde tú estés. Tú viaja ligero.",
              "book_t":"Calcula tu precio","book_p":"Equipaje de un punto a otro, en toda la isla.","f_from":"Recogida","f_to":"Entrega","f_bags":"Maletas","f_date":"Fecha",
              "sh_s_e":"Nuestros servicios","sh_s_t":"Todo se mueve, para que tú no cargues nada","sh_z_e":"SEO local","sh_z_t":"Entrega de maletas por zonas de Mallorca",
-             "svc":{"aeropuerto":("Maletas puerta a puerta","Aeropuerto ↔ hotel ↔ villa. Llega con las manos libres."),"consigna":("Consigna de equipaje","Guarda tus maletas por horas antes del check-in o después del check-out."),"ciclistas":("Ciclistas y senderistas","Movemos tu equipaje y tu bici de hotel a hotel por la Tramuntana."),"mudanzas":("BaggageGo Moving","Mudanzas pequeñas y exprés en la isla: rápidas y aseguradas."),"mercancias":("Transporte de mercancías","Furgoneta con conductor para mercancía y envíos voluminosos en toda la isla."),"guardamuebles":("Guardamuebles","Almacenaje seguro por meses, con recogida y entrega a domicilio."),"bicicletas":("Transporte de bicicletas","Del aeropuerto al hotel y entre etapas, para cicloturistas y grupos.")},
+             "svc":{"aeropuerto":("Maletas puerta a puerta","Aeropuerto ↔ hotel ↔ villa. Llega con las manos libres."),"consigna":("Consigna de equipaje","Guarda tus maletas por horas antes del check-in o después del check-out."),"ciclistas":("Ciclistas y senderistas","Movemos tu equipaje y tu bici de hotel a hotel por la Tramuntana."),"mudanzas":("BaggageGo Moving","Mudanzas pequeñas y exprés en la isla: rápidas y aseguradas."),"mercancias":("Transporte de mercancías","Furgoneta con conductor para mercancía y envíos voluminosos en toda la isla."),"guardamuebles":("Guardamuebles","Almacenaje seguro por meses, con recogida y entrega a domicilio."),"bicicletas":("Transporte de bicicletas","Del aeropuerto al hotel y entre etapas, para cicloturistas y grupos."),"portes":("Portes y muebles","Muebles sueltos, mini mudanzas y portes urgentes en toda la isla.")},
              "more":"Ver más","ver_zona":"Ver zona"},
        "en":{"title":"BaggageGo Mallorca · Luggage delivery & moving","desc":"Door-to-door luggage delivery in Mallorca: airport, hotels and villas. Service for Tramuntana cyclists, storage and express moving. ES·EN·DE.",
              "eyebrow":"Luggage delivery & moving in Mallorca","h1a":"Your bags","h1b":"travel on their own.",
              "sub":"We pick up your luggage at the airport, hotel or villa and deliver it wherever you are. You just travel light.",
              "book_t":"Get an instant price","book_p":"Luggage from A to B, anywhere on the island.","f_from":"From","f_to":"To","f_bags":"Bags","f_date":"Date",
              "sh_s_e":"What we do","sh_s_t":"Everything moves, so you don't have to","sh_z_e":"Local SEO","sh_z_t":"Luggage delivery by area in Mallorca",
-             "svc":{"aeropuerto":("Door-to-door luggage","Airport ↔ hotel ↔ villa. Arrive hands-free."),"consigna":("Luggage storage","Store your bags by the hour before check-in or after check-out."),"ciclistas":("Cyclists & hikers","We move your luggage and bike hotel to hotel across the Tramuntana."),"mudanzas":("BaggageGo Moving","Small, express moves across the island: fast and insured."),"mercancias":("Cargo van & goods","A cargo van with driver for goods and bulky deliveries island-wide."),"guardamuebles":("Storage","Secure monthly storage, with home pick-up and delivery."),"bicicletas":("Bike transport","From airport to hotel and between stages, for cyclists and groups.")},
+             "svc":{"aeropuerto":("Door-to-door luggage","Airport ↔ hotel ↔ villa. Arrive hands-free."),"consigna":("Luggage storage","Store your bags by the hour before check-in or after check-out."),"ciclistas":("Cyclists & hikers","We move your luggage and bike hotel to hotel across the Tramuntana."),"mudanzas":("BaggageGo Moving","Small, express moves across the island: fast and insured."),"mercancias":("Cargo van & goods","A cargo van with driver for goods and bulky deliveries island-wide."),"guardamuebles":("Storage","Secure monthly storage, with home pick-up and delivery."),"bicicletas":("Bike transport","From airport to hotel and between stages, for cyclists and groups."),"portes":("Man with a van","Single furniture items, small moves and urgent jobs across the island.")},
              "more":"Learn more","ver_zona":"View area"},
        "de":{"title":"BaggageGo Mallorca · Gepäcklieferung & Umzüge","desc":"Gepäcklieferung von Tür zu Tür auf Mallorca: Flughafen, Hotels und Villen. Service für Tramuntana-Radfahrer, Aufbewahrung und Express-Umzüge. ES·EN·DE.",
              "eyebrow":"Gepäcklieferung & Umzüge auf Mallorca","h1a":"Dein Gepäck","h1b":"reist von allein.",
              "sub":"Wir holen dein Gepäck am Flughafen, Hotel oder in der Villa ab und liefern es dorthin, wo du bist. Reise einfach leicht.",
              "book_t":"Sofortpreis erhalten","book_p":"Gepäck von A nach B, überall auf der Insel.","f_from":"Von","f_to":"Nach","f_bags":"Gepäck","f_date":"Datum",
              "sh_s_e":"Was wir tun","sh_s_t":"Alles bewegt sich – nur du nicht","sh_z_e":"Lokales SEO","sh_z_t":"Gepäcklieferung nach Gebiet auf Mallorca",
-             "svc":{"aeropuerto":("Gepäck von Tür zu Tür","Flughafen ↔ Hotel ↔ Villa. Komm mit freien Händen an."),"consigna":("Gepäckaufbewahrung","Lagere dein Gepäck stundenweise vor dem Check-in oder nach dem Check-out."),"ciclistas":("Radfahrer & Wanderer","Wir bringen dein Gepäck und dein Rad von Hotel zu Hotel durch die Tramuntana."),"mudanzas":("BaggageGo Moving","Kleine Express-Umzüge auf der Insel: schnell und versichert."),"mercancias":("Warentransport","Transporter mit Fahrer für Waren und sperrige Lieferungen inselweit."),"guardamuebles":("Einlagerung","Sichere monatliche Einlagerung, mit Abholung und Lieferung."),"bicicletas":("Fahrradtransport","Vom Flughafen zum Hotel und zwischen Etappen, für Radfahrer und Gruppen.")},
+             "svc":{"aeropuerto":("Gepäck von Tür zu Tür","Flughafen ↔ Hotel ↔ Villa. Komm mit freien Händen an."),"consigna":("Gepäckaufbewahrung","Lagere dein Gepäck stundenweise vor dem Check-in oder nach dem Check-out."),"ciclistas":("Radfahrer & Wanderer","Wir bringen dein Gepäck und dein Rad von Hotel zu Hotel durch die Tramuntana."),"mudanzas":("BaggageGo Moving","Kleine Express-Umzüge auf der Insel: schnell und versichert."),"mercancias":("Warentransport","Transporter mit Fahrer für Waren und sperrige Lieferungen inselweit."),"guardamuebles":("Einlagerung","Sichere monatliche Einlagerung, mit Abholung und Lieferung."),"bicicletas":("Fahrradtransport","Vom Flughafen zum Hotel und zwischen Etappen, für Radfahrer und Gruppen."),"portes":("Möbeltransport","Einzelmöbel, kleine Umzüge und dringende Transporte inselweit.")},
              "more":"Mehr erfahren","ver_zona":"Gebiet ansehen"}}[lang]
     jl=[jsonld_localbusiness(),
         '{"@context":"https://schema.org","@type":"WebSite","name":"%s Mallorca","url":"%s"}' % (BRAND, url_abs(out))]
