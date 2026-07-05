@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://baggage-go.com/sitemap.xml
