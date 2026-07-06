@@ -118,13 +118,13 @@ SERVICES = [
            "Von der ersten Minute auf Mallorca gewinnst du Zeit und Ruhe: keine Schlange am Parkplatz, kein Kofferraum, der nicht zugeht, kein Schleppen in der Sonne mit dem Kind an der Hand. Starte leicht in den Urlaub; um das Gepäck kümmern wir uns.",[])],
   },
   "faq":{
-    "es":[("¿Cuánto cuesta la entrega de maletas desde el aeropuerto?","Desde 10 € por dos maletas puerta a puerta. El precio final depende de la zona de destino y del número de bultos; te lo confirmamos al instante por WhatsApp."),
+    "es":[("¿Cuánto cuesta la entrega de maletas desde el aeropuerto?","Desde 14 € por dos maletas puerta a puerta. El precio final depende de la zona de destino y del número de bultos; te lo confirmamos al instante por WhatsApp."),
           ("¿Entregáis el mismo día?","Sí. Con reserva anticipada garantizamos la entrega el mismo día de tu llegada en tu hotel o villa."),
           ("¿El equipaje va asegurado?","Sí, todos los envíos están asegurados y puedes seguir el estado de principio a fin.")],
-    "en":[("How much is airport luggage delivery?","From €10 for two bags door to door. The final price depends on the destination area and number of items; we confirm instantly on WhatsApp."),
+    "en":[("How much is airport luggage delivery?","From €14 for two bags door to door. The final price depends on the destination area and number of items; we confirm instantly on WhatsApp."),
           ("Do you deliver the same day?","Yes. With advance booking we guarantee same-day delivery to your hotel or villa on your arrival day."),
           ("Is my luggage insured?","Yes, every shipment is insured and you can track its status from start to finish.")],
-    "de":[("Was kostet die Gepäcklieferung vom Flughafen?","Ab 10 € für zwei Gepäckstücke von Tür zu Tür. Der Endpreis hängt vom Zielgebiet und der Anzahl der Stücke ab; wir bestätigen sofort per WhatsApp."),
+    "de":[("Was kostet die Gepäcklieferung vom Flughafen?","Ab 14 € für zwei Gepäckstücke von Tür zu Tür. Der Endpreis hängt vom Zielgebiet und der Anzahl der Stücke ab; wir bestätigen sofort per WhatsApp."),
           ("Liefert ihr am selben Tag?","Ja. Bei rechtzeitiger Buchung garantieren wir die Lieferung am Ankunftstag zu deinem Hotel oder deiner Villa."),
           ("Ist mein Gepäck versichert?","Ja, jede Sendung ist versichert und du kannst den Status von Anfang bis Ende verfolgen.")],
   },
@@ -161,11 +161,11 @@ SERVICES = [
            "Eine normale Gepäckaufbewahrung verwahrt deine Sachen, und damit ist Schluss. Wir gehen einen Schritt weiter: Wenn du willst, holen wir ab, lagern ein und liefern dann dorthin, wo du es brauchst – ob Flughafen oder andere Unterkunft. Lagern und liefern, alles aus einer Hand.",[])],
   },
   "faq":{
-    "es":[("¿Cuánto cuesta la consigna?","Desde 5 € por maleta y día. Consúltanos por franjas de pocas horas."),
+    "es":[("¿Cuánto cuesta la consigna?","Desde 4,90 € por bulto y día (mochila o bolso 2,90 €; bulto especial como bici o golf 7,90 €). Consúltanos por franjas de pocas horas."),
           ("¿Dónde recogéis y entregáis?","En Palma y toda la isla. Podemos recoger en tu hotel y entregar en el aeropuerto o en otro alojamiento.")],
-    "en":[("How much is storage?","From €5 per bag and day. Ask us about short few-hour slots."),
+    "en":[("How much is storage?","From €4.90 per bag and day (backpack or handbag €2.90; oversized item such as a bike or golf bag €7.90). Ask us about short few-hour slots."),
           ("Where do you collect and deliver?","In Palma and across the island. We can collect at your hotel and deliver to the airport or another accommodation.")],
-    "de":[("Was kostet die Aufbewahrung?","Ab 5 € pro Gepäckstück und Tag. Frag uns nach kurzen Zeitfenstern von wenigen Stunden."),
+    "de":[("Was kostet die Aufbewahrung?","Ab 4,90 € pro Gepäckstück und Tag (Rucksack oder Handtasche 2,90 €; Sperrgut wie Fahrrad oder Golf 7,90 €). Frag uns nach kurzen Zeitfenstern von wenigen Stunden."),
           ("Wo holt ihr ab und liefert ihr?","In Palma und auf der ganzen Insel. Wir holen im Hotel ab und liefern zum Flughafen oder zu einer anderen Unterkunft.")],
   },
  },
@@ -239,13 +239,13 @@ SERVICES = [
            "Wir betreuen dich auf Spanisch, Englisch und Deutsch, ohne Missverständnisse. Und das zählt: Jedes Jahr lässt sich viele Menschen aus dem Ausland auf Mallorca nieder, und zu wissen, dass die Leute, die deine Sachen tragen, dich wirklich verstehen, nimmt viel Druck raus.",[])],
   },
   "faq":{
-    "es":[("¿Cuánto cuesta una mudanza pequeña?","Desde 300 € una mudanza local de un piso pequeño. Preparamos un presupuesto a medida según volumen, distancia y extras."),
+    "es":[("¿Cuánto cuesta una mudanza pequeña?","Una mini mudanza (estudio o pocas cajas) va desde 390 €, y un piso de 2 habitaciones desde 690 €. Preparamos un presupuesto a medida según volumen, distancia y extras."),
           ("¿Hacéis mudanzas a la península o internacionales?","Coordinamos traslados a península e internacionales mediante grupaje; pídenos presupuesto."),
           ("¿Hacéis mudanzas urgentes o mini mudanzas?","Sí. Hacemos mudanzas urgentes, exprés y mini mudanzas de pisos pequeños, estudios o habitaciones sueltas, con reserva rápida y precio cerrado.")],
-    "en":[("How much is a small move?","From €300 for a local move of a small flat. We prepare a custom quote based on volume, distance and extras."),
+    "en":[("How much is a small move?","A mini move (studio or a few boxes) starts from €390, and a 2-bedroom flat from €690. We prepare a custom quote based on volume, distance and extras."),
           ("Do you do moves to the mainland or international?","We coordinate mainland and international moves via groupage; ask us for a quote."),
           ("Do you do urgent or small (mini) moves?","Yes. We do urgent, express and mini moves of small flats, studios or single rooms, with quick booking and a fixed price.")],
-    "de":[("Was kostet ein kleiner Umzug?","Ab 300 € für einen lokalen Umzug einer kleinen Wohnung. Wir erstellen ein individuelles Angebot nach Umfang, Entfernung und Extras."),
+    "de":[("Was kostet ein kleiner Umzug?","Ein Mini-Umzug (Studio oder wenige Kartons) beginnt ab 390 €, eine 2-Zimmer-Wohnung ab 690 €. Wir erstellen ein individuelles Angebot nach Umfang, Entfernung und Extras."),
           ("Macht ihr Umzüge aufs Festland oder international?","Wir koordinieren Festland- und internationale Umzüge per Sammelladung; frag uns nach einem Angebot."),
           ("Macht ihr dringende Umzüge oder Mini-Umzüge?","Ja. Wir machen dringende, Express- und Mini-Umzüge von kleinen Wohnungen, Studios oder einzelnen Zimmern, mit schneller Buchung und Festpreis.")],
   },
@@ -347,11 +347,11 @@ SERVICES = [
   },
   "faq":{
     "es":[("¿Transportáis la bici desde el aeropuerto?","Sí, recogemos tu bicicleta en el aeropuerto PMI y la entregamos en tu hotel o villa, montada o en caja."),
-          ("¿Cuánto cuesta el transporte de una bicicleta?","Desde 18 € por bici y día. Para grupos y varias etapas preparamos un presupuesto a medida.")],
+          ("¿Cuánto cuesta el transporte de una bicicleta?","Desde 19 € por bici y día. Para grupos y varias etapas preparamos un presupuesto a medida (pack ciclista semanal desde 99 €).")],
     "en":[("Do you transport the bike from the airport?","Yes, we collect your bike at PMI airport and deliver it to your hotel or villa, assembled or boxed."),
-          ("How much is bike transport?","From €18 per bike and day. For groups and multiple stages we prepare a custom quote.")],
+          ("How much is bike transport?","From €19 per bike and day. For groups and multiple stages we prepare a custom quote (weekly cyclist pack from €99).")],
     "de":[("Transportiert ihr das Fahrrad vom Flughafen?","Ja, wir holen dein Fahrrad am Flughafen PMI ab und liefern es zu deinem Hotel oder deiner Villa, montiert oder verpackt."),
-          ("Was kostet der Fahrradtransport?","Ab 18 € pro Rad und Tag. Für Gruppen und mehrere Etappen erstellen wir ein individuelles Angebot.")],
+          ("Was kostet der Fahrradtransport?","Ab 19 € pro Rad und Tag. Für Gruppen und mehrere Etappen erstellen wir ein individuelles Angebot (Wochenpaket für Radfahrer ab 99 €).")],
   },
  },
  {
@@ -380,11 +380,11 @@ SERVICES = [
           ("Mini-Umzüge: genau das Richtige, ohne zu viel zu zahlen","Für ein Studio, ein einzelnes Zimmer oder eine kleine Wohnung ist ein kompletter Umzug mit Kanonen auf Spatzen geschossen. Ein Mini-Umzug ist schneller, günstiger und im Handumdrehen gebucht, mit Festpreis und ohne Überraschungen am Ende.",[])],
   },
   "faq":{
-    "es":[("¿Cuánto cuesta un porte en Palma de Mallorca?","Los portes suelen ir desde 20–50 € según el volumen, la distancia y la urgencia. Cuéntanos qué necesitas mover y te damos precio al momento."),
+    "es":[("¿Cuánto cuesta un porte en Palma de Mallorca?","Un porte va desde 49 € la primera hora (hora extra +35 €), según el volumen y la urgencia. Cuéntanos qué necesitas mover y te damos precio al momento."),
           ("¿Hacéis portes urgentes o en el mismo día?","Sí, ofrecemos portes urgentes y en el día siempre que haya disponibilidad.")],
-    "en":[("How much is a man with a van in Mallorca?","Small transport jobs usually start from €20–50 depending on volume, distance and urgency. Tell us what you need to move and we quote right away."),
+    "en":[("How much is a man with a van in Mallorca?","A man-with-a-van job starts from €49 for the first hour (extra hour +€35), depending on volume and urgency. Tell us what you need to move and we quote right away."),
           ("Do you do urgent or same-day jobs?","Yes, we offer urgent and same-day service subject to availability.")],
-    "de":[("Was kostet ein Möbeltransport auf Mallorca?","Kleine Transporte beginnen meist bei 20–50 € je nach Umfang, Entfernung und Dringlichkeit. Sag uns, was du bewegen musst, und wir nennen sofort den Preis."),
+    "de":[("Was kostet ein Möbeltransport auf Mallorca?","Ein Möbeltransport beginnt bei 49 € für die erste Stunde (weitere Stunde +35 €), je nach Umfang und Dringlichkeit. Sag uns, was du bewegen musst, und wir nennen sofort den Preis."),
           ("Macht ihr dringende Transporte am selben Tag?","Ja, wir bieten dringenden Service am selben Tag, sofern verfügbar.")],
   },
  },
@@ -937,11 +937,11 @@ def build_service(s, lang):
 
 def zone_faq(lang, name):
     return {
-     "es":[("¿Cuánto cuesta la entrega de maletas en "+name+"?","Desde 10 € por dos maletas puerta a puerta en "+name+". El precio depende del número de bultos y del punto exacto; te lo confirmamos al instante por WhatsApp."),
+     "es":[("¿Cuánto cuesta la entrega de maletas en "+name+"?","Desde 14 € por dos maletas puerta a puerta en "+name+". El precio depende del número de bultos y del punto exacto; te lo confirmamos al instante por WhatsApp."),
            ("¿Entregáis en "+name+" el mismo día?","Sí. Con reserva anticipada entregamos tu equipaje en "+name+" el mismo día, y también lo recogemos para llevarlo al aeropuerto o a otro alojamiento.")],
-     "en":[("How much is luggage delivery in "+name+"?","From €10 for two bags door to door in "+name+". The price depends on the number of items and the exact point; we confirm instantly on WhatsApp."),
+     "en":[("How much is luggage delivery in "+name+"?","From €14 for two bags door to door in "+name+". The price depends on the number of items and the exact point; we confirm instantly on WhatsApp."),
            ("Do you deliver in "+name+" the same day?","Yes. With advance booking we deliver your luggage in "+name+" the same day, and we also collect it to take to the airport or another accommodation.")],
-     "de":[("Was kostet die Gepäcklieferung in "+name+"?","Ab 10 € für zwei Gepäckstücke von Tür zu Tür in "+name+". Der Preis hängt von der Anzahl der Stücke und dem genauen Ort ab; wir bestätigen sofort per WhatsApp."),
+     "de":[("Was kostet die Gepäcklieferung in "+name+"?","Ab 14 € für zwei Gepäckstücke von Tür zu Tür in "+name+". Der Preis hängt von der Anzahl der Stücke und dem genauen Ort ab; wir bestätigen sofort per WhatsApp."),
            ("Liefert ihr in "+name+" am selben Tag?","Ja. Bei rechtzeitiger Buchung liefern wir dein Gepäck in "+name+" am selben Tag und holen es auch ab, um es zum Flughafen oder zu einer anderen Unterkunft zu bringen.")],
     }[lang]
 
@@ -1073,9 +1073,9 @@ def build_info_pages(lang):
     build_info("como-funciona",lang,cf_title,cf_desc,cf_h1,blocks,related_services(lang,LANG_BASE[lang]+INFO_SLUG['como-funciona'][lang]+'.html'))
 
     # Precios
-    pr={"es":[("Entrega de maletas","10€","2 maletas, puerta a puerta"),("Bicicletas","18€","por bici / día"),("Consigna","5€","por maleta / día"),("BaggageGo Moving","300€","presupuesto a medida")],
-        "en":[("Luggage delivery","10€","2 bags, door to door"),("Bicycles","18€","per bike / day"),("Storage","5€","per bag / day"),("BaggageGo Moving","300€","custom quote")],
-        "de":[("Gepäcklieferung","10€","2 Stück, Tür zu Tür"),("Fahrräder","18€","pro Rad / Tag"),("Aufbewahrung","5€","pro Stück / Tag"),("BaggageGo Moving","300€","individuelles Angebot")]}[lang]
+    pr={"es":[("Consigna de equipaje","4,90 €","por bulto y día"),("Entrega de maletas","14 €","2 maletas, puerta a puerta"),("Pack Consigna + Entrega","12 €","guardamos y te lo entregamos"),("Transporte de bicicletas","19 €","por bici y día"),("Portes / mini-mudanza","49 €","1ª hora · furgoneta + operario"),("Furgoneta con conductor","59 €","por hora (mín. 2 h)"),("Mudanza exprés","390 €","mini · piso 2 hab. desde 690 €"),("Guardamuebles","69 €","al mes · recogida incluida")],
+        "en":[("Luggage storage","4,90 €","per bag and day"),("Luggage delivery","14 €","2 bags, door to door"),("Storage + Delivery pack","12 €","we store and deliver"),("Bike transport","19 €","per bike and day"),("Man with a van","49 €","1st hour · van + helper"),("Cargo van with driver","59 €","per hour (min. 2 h)"),("Express moving","390 €","mini · 2-bed from 690 €"),("Storage","69 €","per month · pick-up included")],
+        "de":[("Gepäckaufbewahrung","4,90 €","pro Stück und Tag"),("Gepäcklieferung","14 €","2 Stück, Tür zu Tür"),("Paket Aufbewahrung + Lieferung","12 €","wir lagern und liefern"),("Fahrradtransport","19 €","pro Rad und Tag"),("Möbeltransport","49 €","1. Stunde · Transporter + Helfer"),("Transporter mit Fahrer","59 €","pro Stunde (min. 2 Std.)"),("Express-Umzug","390 €","mini · 2-Zi. ab 690 €"),("Einlagerung","69 €","pro Monat · Abholung inkl.")]}[lang]
     pr_title={"es":"Precios · BaggageGo Mallorca","en":"Prices · BaggageGo Mallorca","de":"Preise · BaggageGo Mallorca"}[lang]
     pr_h1={"es":"Precios orientativos","en":"Indicative prices","de":"Richtpreise"}[lang]
     pr_desc={"es":"Tarifas de referencia de entrega de maletas, consigna, bicicletas y mudanzas exprés en Mallorca.","en":"Reference rates for luggage delivery, storage, bikes and express moving in Mallorca.","de":"Richtpreise für Gepäcklieferung, Aufbewahrung, Fahrräder und Express-Umzüge auf Mallorca."}[lang]
