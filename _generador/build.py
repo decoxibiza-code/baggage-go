@@ -97,25 +97,25 @@ SERVICES = [
   "h1":{"es":"Entrega de maletas: aeropuerto PMI ↔ hotel o villa",
         "en":"Luggage delivery: PMI airport ↔ hotel or villa",
         "de":"Gepäcklieferung: Flughafen PMI ↔ Hotel oder Villa"},
-  "intro":{"es":"Aterriza en Palma y olvídate de las maletas. Las recogemos en la terminal del aeropuerto PMI y las entregamos directamente en tu alojamiento —hotel, villa o apartamento— en cualquier punto de la isla.",
-           "en":"Land in Palma and forget about your bags. We pick them up at PMI airport terminal and deliver them straight to your accommodation —hotel, villa or apartment— anywhere on the island.",
-           "de":"Lande in Palma und vergiss dein Gepäck. Wir holen es am Terminal des Flughafens PMI ab und liefern es direkt zu deiner Unterkunft —Hotel, Villa oder Apartment— überall auf der Insel."},
+  "intro":{"es":"Aterrizas en Palma y lo último que te apetece es pelearte con las maletas. Así que no lo hagas: las recogemos nosotros en la terminal del PMI y las dejamos directamente en tu alojamiento —hotel, villa o apartamento—, estés donde estés en la isla. Tú sales del aeropuerto con las manos libres y te vas derecho a empezar las vacaciones.",
+           "en":"You land in Palma and the last thing you want is to wrestle with your bags. So don't. We collect them at the PMI terminal and drop them straight at your accommodation —hotel, villa or apartment—, wherever you are on the island. You walk out of the airport with your hands free and head straight into your holiday.",
+           "de":"Du landest in Palma, und das Letzte, worauf du Lust hast, ist der Kampf mit dem Gepäck. Also lass es. Wir holen es am PMI-Terminal ab und bringen es direkt zu deiner Unterkunft —Hotel, Villa oder Apartment—, egal wo auf der Insel du bist. Du verlässt den Flughafen mit freien Händen und startest direkt in den Urlaub."},
   "secs":{
-    "es":[("Cómo funciona la entrega desde el aeropuerto",
-           "Reservas online indicando tu vuelo, número de maletas y el destino. Un conductor recoge el equipaje y lo lleva a tu alojamiento el mismo día, con seguimiento y seguro incluido.",
-           ["Ideal para equipaje voluminoso: golf, bicicletas, tablas de surf.","Perfecto si viajas con niños o llegas en coche de alquiler.","Recogida también en el sentido inverso: hotel → aeropuerto para tu salida."]),
-          ("¿Por qué no cargar tus maletas?",
-           "Ganas tiempo y comodidad desde el primer minuto en Mallorca: sin colas en el parking, sin maleteros llenos, sin cargar peso bajo el sol.",[])],
-    "en":[("How airport delivery works",
-           "Book online with your flight, number of bags and destination. A driver collects your luggage and takes it to your accommodation the same day, with tracking and insurance included.",
-           ["Ideal for bulky luggage: golf, bikes, surfboards.","Perfect if you travel with kids or arrive by rental car.","Also available the other way round: hotel → airport for your departure."]),
-          ("Why carry your bags at all?",
-           "Save time and enjoy comfort from your very first minute in Mallorca: no queues at the car park, no full boots, no lugging weight under the sun.",[])],
-    "de":[("So funktioniert die Lieferung vom Flughafen",
-           "Buche online mit deinem Flug, der Anzahl der Gepäckstücke und dem Ziel. Ein Fahrer holt dein Gepäck ab und bringt es am selben Tag zu deiner Unterkunft – mit Sendungsverfolgung und Versicherung.",
-           ["Ideal für sperriges Gepäck: Golf, Fahrräder, Surfbretter.","Perfekt, wenn du mit Kindern reist oder mit dem Mietwagen ankommst.","Auch umgekehrt möglich: Hotel → Flughafen für deine Abreise."]),
-          ("Warum überhaupt Gepäck schleppen?",
-           "Spare Zeit und genieße Komfort von der ersten Minute auf Mallorca: keine Schlangen am Parkplatz, kein voller Kofferraum, kein Schleppen in der Sonne.",[])],
+    "es":[("Cómo funciona, paso a paso",
+           "Reservas online y nos dices tu vuelo, cuántas maletas traes y adónde van. A partir de ahí nos encargamos nosotros: un conductor recoge tu equipaje y lo lleva a tu alojamiento el mismo día, con seguimiento para que sepas por dónde va y seguro incluido de principio a fin.",
+           ["Perfecto para equipaje que abulta: palos de golf, la bici, la tabla de surf.","Un alivio si viajas con niños o te espera un coche de alquiler pequeño.","Y funciona igual a la vuelta: recogemos en el hotel y llevamos tus maletas al aeropuerto para tu salida."]),
+          ("¿Por qué cargar con todo si no hace falta?",
+           "Desde el primer minuto en Mallorca ganas tiempo y tranquilidad: nada de colas en el parking, ni maleteros que no cierran, ni arrastrar peso bajo el sol con el niño de la mano. Empieza el viaje ligero; de las maletas nos ocupamos nosotros.",[])],
+    "en":[("How it works, step by step",
+           "You book online and tell us your flight, how many bags you're bringing and where they're going. From there it's on us: a driver picks up your luggage and takes it to your accommodation the same day, with tracking so you know where it is and insurance from start to finish.",
+           ["Perfect for bulky kit: golf clubs, the bike, the surfboard.","A relief if you travel with kids or a small rental car is waiting.","And it works just the same on the way back: we collect at the hotel and take your bags to the airport for departure."]),
+          ("Why carry it all when you don't have to?",
+           "From your very first minute in Mallorca you gain time and peace of mind: no queues at the car park, no boot that won't shut, no dragging weight through the sun with a kid in tow. Start the trip light; we'll look after the bags.",[])],
+    "de":[("So läuft es, Schritt für Schritt",
+           "Du buchst online und sagst uns deinen Flug, wie viele Gepäckstücke du dabeihast und wohin sie sollen. Ab da übernehmen wir: Ein Fahrer holt dein Gepäck ab und bringt es am selben Tag zu deiner Unterkunft – mit Sendungsverfolgung, damit du weißt, wo es ist, und Versicherung von Anfang bis Ende.",
+           ["Ideal für sperriges Zeug: Golfschläger, das Rad, das Surfbrett.","Eine Erleichterung, wenn du mit Kindern reist oder ein kleiner Mietwagen wartet.","Und zurück läuft es genauso: Wir holen im Hotel ab und bringen dein Gepäck zur Abreise an den Flughafen."]),
+          ("Warum alles schleppen, wenn es nicht sein muss?",
+           "Von der ersten Minute auf Mallorca gewinnst du Zeit und Ruhe: keine Schlange am Parkplatz, kein Kofferraum, der nicht zugeht, kein Schleppen in der Sonne mit dem Kind an der Hand. Starte leicht in den Urlaub; um das Gepäck kümmern wir uns.",[])],
   },
   "faq":{
     "es":[("¿Cuánto cuesta la entrega de maletas desde el aeropuerto?","Desde 10 € por dos maletas puerta a puerta. El precio final depende de la zona de destino y del número de bultos; te lo confirmamos al instante por WhatsApp."),
@@ -140,25 +140,25 @@ SERVICES = [
           "en":"Store your bags safely in Palma before check-in or after check-out. By the hour or by the day, insured. Book on WhatsApp.",
           "de":"Bewahre dein Gepäck sicher in Palma auf – vor dem Check-in oder nach dem Check-out. Stundenweise oder tageweise, versichert. Buchung per WhatsApp."},
   "h1":{"es":"Consigna de equipaje en Palma de Mallorca","en":"Luggage storage in Palma de Mallorca","de":"Gepäckaufbewahrung in Palma de Mallorca"},
-  "intro":{"es":"¿Check-out temprano o vuelo nocturno? Guarda tus maletas con nosotros y aprovecha tus últimas horas en Mallorca sin cargar peso.",
-           "en":"Early check-out or a night flight? Leave your bags with us and enjoy your last hours in Mallorca without carrying weight.",
-           "de":"Früher Check-out oder Nachtflug? Lass dein Gepäck bei uns und genieße deine letzten Stunden auf Mallorca ohne Ballast."},
+  "intro":{"es":"Ese hueco incómodo entre el check-out y el vuelo tiene fácil solución. Déjanos las maletas y disfruta de tus últimas horas en Mallorca como toca: un último baño, una comida con calma o un paseo por el centro, sin arrastrar peso ni estar pendiente del equipaje.",
+           "en":"That awkward gap between check-out and your flight has an easy fix. Leave the bags with us and enjoy your last hours in Mallorca the way you should: one more swim, a slow lunch or a stroll through town, with nothing to drag and nothing to keep an eye on.",
+           "de":"Diese unbequeme Lücke zwischen Check-out und Flug lässt sich leicht lösen. Lass das Gepäck bei uns und genieße deine letzten Stunden auf Mallorca, wie es sein soll: noch ein Bad, ein entspanntes Essen oder ein Bummel durch die Stadt, ohne etwas zu schleppen und ohne aufs Gepäck aufpassen zu müssen."},
   "secs":{
-    "es":[("Consigna flexible, por horas o días",
-           "Deja tu equipaje de forma segura y recógelo cuando quieras. Un servicio pensado para el hueco entre el check-out y tu vuelo, o entre tu llegada y el check-in.",
-           ["Custodia segura y asegurada.","Sin límite de tamaño: maletas grandes, bicis o material deportivo.","Combínalo con nuestra entrega para no volver a por las maletas."]),
-          ("Consigna con entrega, la diferencia BaggageGo",
-           "A diferencia de una consigna fija, nosotros también llevamos tu equipaje adonde lo necesites. Guardamos y entregamos.",[])],
-    "en":[("Flexible storage, by the hour or by the day",
-           "Leave your luggage securely and pick it up whenever you like. Designed for the gap between check-out and your flight, or between arrival and check-in.",
-           ["Safe, insured custody.","No size limit: large suitcases, bikes or sports gear.","Combine it with our delivery so you never come back for your bags."]),
-          ("Storage with delivery, the BaggageGo difference",
-           "Unlike a fixed left-luggage point, we also take your bags wherever you need them. We store and we deliver.",[])],
-    "de":[("Flexible Aufbewahrung, stundenweise oder tageweise",
-           "Gib dein Gepäck sicher ab und hole es ab, wann du willst. Gedacht für die Lücke zwischen Check-out und Flug oder zwischen Ankunft und Check-in.",
-           ["Sichere, versicherte Verwahrung.","Keine Größenbeschränkung: große Koffer, Fahrräder oder Sportausrüstung.","Kombiniere sie mit unserer Lieferung, damit du dein Gepäck nie wieder abholen musst."]),
-          ("Aufbewahrung mit Lieferung – der BaggageGo-Unterschied",
-           "Anders als eine feste Gepäckaufbewahrung bringen wir dein Gepäck auch dorthin, wo du es brauchst. Wir lagern und wir liefern.",[])],
+    "es":[("Guarda por horas o por días, como te venga bien",
+           "Nos dejas el equipaje bien guardado y lo recoges cuando quieras. Es la solución perfecta para ese hueco entre el check-out y el vuelo, o entre que llegas y tienes la habitación lista. Ni un minuto perdido cargando maletas.",
+           ["Custodia segura y asegurada, con tus cosas en buenas manos.","Sin límite de tamaño: maletas grandes, la bici o el material deportivo caben igual.","Combínalo con nuestra entrega y no vuelves ni a por las maletas: te las llevamos donde digas."]),
+          ("La diferencia BaggageGo: guardamos y además te lo llevamos",
+           "Una consigna normal te guarda las maletas y ahí se acaba. Nosotros vamos un paso más allá: si quieres, las recogemos, las guardamos y luego te las entregamos donde las necesites, sea el aeropuerto u otro alojamiento. Guardar y llevar, todo con el mismo equipo.",[])],
+    "en":[("Store by the hour or by the day, whatever suits you",
+           "You leave your luggage safely stored and pick it up whenever you like. It's the perfect fix for that gap between check-out and your flight, or between arriving and your room being ready. Not a minute wasted hauling bags around.",
+           ["Safe, insured custody, with your things in good hands.","No size limit: big suitcases, the bike or sports gear all fit just the same.","Combine it with our delivery and you won't even come back for the bags: we bring them to you."]),
+          ("The BaggageGo difference: we store, and we bring it to you too",
+           "A normal left-luggage point holds your bags and that's where it ends. We go one step further: if you like, we collect them, store them and then deliver them wherever you need, be it the airport or another place to stay. Store and deliver, all with the same team.",[])],
+    "de":[("Lagere stundenweise oder tageweise, ganz wie es passt",
+           "Du gibst dein Gepäck sicher verwahrt ab und holst es ab, wann du willst. Die perfekte Lösung für die Lücke zwischen Check-out und Flug oder zwischen Ankunft und fertigem Zimmer. Keine Minute mit Kofferschleppen vergeudet.",
+           ["Sichere, versicherte Verwahrung – deine Sachen in guten Händen.","Keine Größenbeschränkung: große Koffer, das Rad oder Sportausrüstung passen genauso.","Kombiniere es mit unserer Lieferung, und du kommst nicht mal mehr zurück: Wir bringen dir das Gepäck."]),
+          ("Der BaggageGo-Unterschied: Wir lagern und bringen es dir auch",
+           "Eine normale Gepäckaufbewahrung verwahrt deine Sachen, und damit ist Schluss. Wir gehen einen Schritt weiter: Wenn du willst, holen wir ab, lagern ein und liefern dann dorthin, wo du es brauchst – ob Flughafen oder andere Unterkunft. Lagern und liefern, alles aus einer Hand.",[])],
   },
   "faq":{
     "es":[("¿Cuánto cuesta la consigna?","Desde 5 € por maleta y día. Consúltanos por franjas de pocas horas."),
@@ -180,25 +180,25 @@ SERVICES = [
           "en":"We move your luggage and your bike from hotel to hotel across the Serra de Tramuntana. Ride or hike light; we handle the bags.",
           "de":"Wir transportieren dein Gepäck und dein Fahrrad von Hotel zu Hotel durch die Serra de Tramuntana. Fahr oder wandere leicht; wir kümmern uns um das Gepäck."},
   "h1":{"es":"Transporte de equipaje para ciclistas y senderistas","en":"Luggage transfer for cyclists and hikers","de":"Gepäcktransfer für Radfahrer und Wanderer"},
-  "intro":{"es":"Recorres la Tramuntana en bici o a pie y cambias de hotel cada noche. Nosotros llevamos tu equipaje —y tu bicicleta— al siguiente alojamiento para que viajes sin peso.",
-           "en":"You ride or hike the Tramuntana and change hotel every night. We take your luggage —and your bike— to the next accommodation so you travel weight-free.",
-           "de":"Du fährst oder wanderst durch die Tramuntana und wechselst jede Nacht das Hotel. Wir bringen dein Gepäck – und dein Fahrrad – zur nächsten Unterkunft, damit du ohne Ballast reist."},
+  "intro":{"es":"Haces la Tramuntana por etapas, subiendo puertos y cambiando de hotel cada noche. Lo bonito es rodar o caminar; lo pesado, arrastrar la maleta de un pueblo a otro. De eso nos ocupamos nosotros: llevamos tu equipaje —y tu bicicleta— al siguiente alojamiento mientras tú disfrutas del camino ligero.",
+           "en":"You're riding or hiking the Tramuntana in stages, climbing the passes and switching hotels each night. The good part is the ride; the heavy part is dragging a suitcase from one village to the next. That's ours to handle: we take your luggage —and your bike— to the next place while you enjoy the route with nothing on your back.",
+           "de":"Du machst die Tramuntana in Etappen, kletterst die Pässe hoch und wechselst jede Nacht das Hotel. Das Schöne ist die Tour; das Schwere ist, den Koffer von Dorf zu Dorf zu schleppen. Das übernehmen wir: Wir bringen dein Gepäck – und dein Fahrrad – zur nächsten Unterkunft, während du die Strecke ohne Ballast genießt."},
   "secs":{
-    "es":[("Punto a punto por la Serra de Tramuntana",
-           "Sóller, Deià, Valldemossa, Pollença... Coordinamos la recogida en tu hotel por la mañana y la entrega en el siguiente antes de que llegues.",
-           ["Transporte de bicicletas de carretera y de montaña.","Coordinación con tu itinerario de etapas.","Servicio en temporada de ciclismo: primavera y otoño."]),
-          ("Pensado para grupos y tour operadores",
-           "Trabajamos con grupos ciclistas y tour operadores que organizan rutas por Mallorca. Un único contacto para todas las etapas.",[])],
-    "en":[("Point to point across the Serra de Tramuntana",
-           "Sóller, Deià, Valldemossa, Pollença... We coordinate pick-up at your hotel in the morning and drop-off at the next one before you arrive.",
-           ["Road and mountain bike transport.","Coordinated with your stage itinerary.","Available in cycling season: spring and autumn."]),
-          ("Built for groups and tour operators",
-           "We work with cycling groups and tour operators running routes across Mallorca. One single contact for every stage.",[])],
-    "de":[("Punkt zu Punkt durch die Serra de Tramuntana",
-           "Sóller, Deià, Valldemossa, Pollença... Wir koordinieren die Abholung morgens im Hotel und die Lieferung im nächsten, bevor du ankommst.",
-           ["Transport von Renn- und Mountainbikes.","Abgestimmt auf deine Etappen.","Verfügbar in der Radsaison: Frühling und Herbst."]),
-          ("Für Gruppen und Reiseveranstalter gemacht",
-           "Wir arbeiten mit Radgruppen und Reiseveranstaltern, die Touren über Mallorca organisieren. Ein einziger Ansprechpartner für alle Etappen.",[])],
+    "es":[("De hotel a hotel por la Serra de Tramuntana",
+           "Sóller, Deià, Valldemossa, Pollença... Nos das tu itinerario y nos encargamos del resto: recogemos en tu hotel por la mañana y dejamos las maletas en el siguiente antes de que llegues tú. Cuando entras por la puerta, tus cosas ya están esperándote.",
+           ["Movemos bicis de carretera y de montaña, con el mismo cuidado que tus maletas.","Nos ajustamos a tu plan de etapas, sin que tengas que estar pendiente.","Es nuestra temporada fuerte: primavera y otoño, cuando la isla se llena de ciclistas."]),
+          ("Y si venís en grupo, mejor todavía",
+           "Trabajamos codo con codo con grupos ciclistas y tour operadores que organizan rutas por Mallorca. Un solo contacto para todas las etapas y todos los coches: tú te centras en pedalear, nosotros en que cada maleta llegue a su sitio.",[])],
+    "en":[("From hotel to hotel across the Serra de Tramuntana",
+           "Sóller, Deià, Valldemossa, Pollença... You give us your itinerary and we take care of the rest: we collect at your hotel in the morning and drop the bags at the next one before you get there. By the time you walk in, your things are already waiting.",
+           ["We move road and mountain bikes with the same care as your bags.","We fit around your stage plan, so you never have to chase it.","It's our busy season: spring and autumn, when the island fills up with riders."]),
+          ("And if you come as a group, even better",
+           "We work hand in hand with cycling groups and tour operators running routes across Mallorca. One single contact for every stage and every rider: you focus on the pedalling, we make sure each bag lands where it should.",[])],
+    "de":[("Von Hotel zu Hotel durch die Serra de Tramuntana",
+           "Sóller, Deià, Valldemossa, Pollença... Du gibst uns deine Route, und wir kümmern uns um den Rest: Wir holen morgens im Hotel ab und bringen das Gepäck ins nächste, bevor du dort ankommst. Wenn du zur Tür hereinkommst, warten deine Sachen schon.",
+           ["Wir bewegen Renn- und Mountainbikes mit derselben Sorgfalt wie dein Gepäck.","Wir richten uns nach deinem Etappenplan, ohne dass du etwas nachhalten musst.","Es ist unsere Hauptsaison: Frühling und Herbst, wenn sich die Insel mit Radfahrern füllt."]),
+          ("Und als Gruppe? Umso besser",
+           "Wir arbeiten Hand in Hand mit Radgruppen und Reiseveranstaltern, die Touren über Mallorca organisieren. Ein einziger Ansprechpartner für alle Etappen und alle Fahrer: Du konzentrierst dich aufs Treten, wir darauf, dass jedes Gepäckstück am richtigen Ort ankommt.",[])],
   },
   "faq":{
     "es":[("¿Transportáis la bicicleta además del equipaje?","Sí, movemos maletas y bicicletas entre hoteles. Indícanos cuántas bicis y de qué tipo."),
@@ -218,25 +218,25 @@ SERVICES = [
           "en":"Small and express moves in Mallorca: flats, studios and offices. Fast, careful and insured. Free quote.",
           "de":"Kleine und Express-Umzüge auf Mallorca: Wohnungen, Studios und Büros. Schnell, sorgfältig und versichert. Kostenloses Angebot."},
   "h1":{"es":"Mudanzas exprés en Mallorca","en":"Express moving in Mallorca","de":"Express-Umzüge auf Mallorca"},
-  "intro":{"es":"¿Te mudas dentro de la isla? BaggageGo Moving hace mudanzas pequeñas y exprés de pisos, estudios y oficinas, con la misma fiabilidad y trato premium de nuestro servicio de equipaje.",
-           "en":"Moving within the island? BaggageGo Moving handles small and express moves of flats, studios and offices, with the same reliability and premium care as our luggage service.",
-           "de":"Ziehst du innerhalb der Insel um? BaggageGo Moving übernimmt kleine und Express-Umzüge von Wohnungen, Studios und Büros – mit derselben Zuverlässigkeit und dem Premium-Service unseres Gepäckdienstes."},
+  "intro":{"es":"Cambiar de casa dentro de la isla no tiene por qué ser un dolor de cabeza. BaggageGo Moving se encarga de mudanzas pequeñas y exprés —pisos, estudios y oficinas— con el mismo cuidado y la misma seriedad que ponemos en cada maleta. Tú decides el día; nosotros hacemos que salga rodado.",
+           "en":"Moving house within the island doesn't have to be a headache. BaggageGo Moving handles small and express moves —flats, studios and offices— with the same care and the same seriousness we put into every suitcase. You pick the day; we make it go smoothly.",
+           "de":"Ein Umzug innerhalb der Insel muss kein Kopfzerbrechen sein. BaggageGo Moving übernimmt kleine und Express-Umzüge —Wohnungen, Studios und Büros— mit derselben Sorgfalt und Ernsthaftigkeit, die wir in jeden Koffer stecken. Du wählst den Tag; wir sorgen dafür, dass alles glattläuft."},
   "secs":{
-    "es":[("Mudanzas rápidas y sin complicaciones",
-           "Ideal para mudanzas de última hora, pisos de 1 a 3 habitaciones y pequeñas oficinas. Reserva ágil, embalaje opcional y entrega cuidada.",
-           ["Mudanzas locales dentro de Mallorca.","Traslados puntuales de muebles y electrodomésticos.","Presupuesto claro y sin sorpresas."]),
-          ("Para residentes y extranjeros que llegan a la isla",
-           "Atendemos en español, inglés y alemán, algo clave para la gran comunidad de residentes extranjeros que se instala en Mallorca.",[])],
-    "en":[("Fast, hassle-free moves",
-           "Ideal for last-minute moves, 1 to 3-bedroom flats and small offices. Quick booking, optional packing and careful delivery.",
-           ["Local moves within Mallorca.","One-off transport of furniture and appliances.","Clear quote, no surprises."]),
-          ("For residents and newcomers to the island",
-           "We serve in Spanish, English and German —key for the large community of foreign residents settling in Mallorca.",[])],
-    "de":[("Schnelle, unkomplizierte Umzüge",
-           "Ideal für kurzfristige Umzüge, Wohnungen mit 1 bis 3 Zimmern und kleine Büros. Schnelle Buchung, optionales Verpacken und sorgfältige Lieferung.",
-           ["Lokale Umzüge innerhalb Mallorcas.","Einzeltransporte von Möbeln und Geräten.","Klares Angebot, keine Überraschungen."]),
-          ("Für Einwohner und Neuankömmlinge auf der Insel",
-           "Wir bedienen auf Spanisch, Englisch und Deutsch – entscheidend für die große Gemeinschaft ausländischer Einwohner, die sich auf Mallorca niederlässt.",[])],
+    "es":[("Rápido, cuidado y sin sobresaltos",
+           "Va perfecto para mudanzas de última hora, pisos de una a tres habitaciones y oficinas pequeñas. Reservas en un momento, te embalamos si quieres y tratamos tus cosas como si fueran nuestras. Nada de sorpresas el día de la mudanza.",
+           ["Mudanzas locales por toda Mallorca, de punta a punta de la isla.","Un mueble suelto, la nevera o cuatro cosas: también las movemos.","Presupuesto claro desde el principio, sin letra pequeña."]),
+          ("Hablamos tu idioma, literalmente",
+           "Te atendemos en español, inglés y alemán, sin malentendidos. Y eso importa: a Mallorca llega cada año mucha gente de fuera que se instala aquí, y saber que quien te lleva las cosas te entiende quita mucha presión.",[])],
+    "en":[("Fast, careful and without nasty surprises",
+           "It's spot on for last-minute moves, one to three-bedroom flats and small offices. You book in a moment, we pack for you if you like, and we treat your things as if they were ours. No surprises on moving day.",
+           ["Local moves across the whole of Mallorca, end to end.","A single item, the fridge or just a few things: we move those too.","A clear quote from the start, no small print."]),
+          ("We speak your language, literally",
+           "We look after you in Spanish, English and German, with no misunderstandings. And that matters: plenty of people from abroad settle in Mallorca each year, and knowing the people moving your things actually understand you takes a lot of the pressure off.",[])],
+    "de":[("Schnell, sorgfältig und ohne böse Überraschungen",
+           "Ideal für kurzfristige Umzüge, Wohnungen mit ein bis drei Zimmern und kleine Büros. Du buchst im Handumdrehen, wir verpacken auf Wunsch für dich, und wir behandeln deine Sachen, als wären es unsere. Keine Überraschungen am Umzugstag.",
+           ["Lokale Umzüge auf ganz Mallorca, von einem Ende zum anderen.","Ein einzelnes Möbelstück, der Kühlschrank oder nur ein paar Dinge: bewegen wir auch.","Ein klares Angebot von Anfang an, kein Kleingedrucktes."]),
+          ("Wir sprechen deine Sprache, im wörtlichen Sinn",
+           "Wir betreuen dich auf Spanisch, Englisch und Deutsch, ohne Missverständnisse. Und das zählt: Jedes Jahr lässt sich viele Menschen aus dem Ausland auf Mallorca nieder, und zu wissen, dass die Leute, die deine Sachen tragen, dich wirklich verstehen, nimmt viel Druck raus.",[])],
   },
   "faq":{
     "es":[("¿Cuánto cuesta una mudanza pequeña?","Desde 300 € una mudanza local de un piso pequeño. Preparamos un presupuesto a medida según volumen, distancia y extras."),
@@ -263,19 +263,19 @@ SERVICES = [
   "h1":{"es":"Transporte de mercancías y furgoneta con conductor en Mallorca",
         "en":"Cargo van with driver and goods transport in Mallorca",
         "de":"Transporter mit Fahrer und Warentransport auf Mallorca"},
-  "intro":{"es":"¿Necesitas mover mercancía, material o envíos voluminosos por la isla? Ponemos una furgoneta con conductor a tu disposición, con la fiabilidad y el trato profesional de una empresa de transporte establecida.",
-           "en":"Need to move goods, materials or bulky deliveries around the island? We provide a cargo van with driver, with the reliability and professional service of an established transport company.",
-           "de":"Musst du Waren, Material oder sperrige Lieferungen über die Insel bewegen? Wir stellen einen Transporter mit Fahrer bereit – mit der Zuverlässigkeit und dem professionellen Service eines etablierten Transportunternehmens."},
+  "intro":{"es":"Tienes que mover mercancía, material o un envío que no cabe en un coche y no sabes a quién llamar. Aquí lo tienes claro: te ponemos una furgoneta con conductor cuando la necesites, con la seriedad y el trato de una empresa de transporte que lleva años en esto. Tú nos dices qué y adónde; nosotros lo llevamos.",
+           "en":"You've got goods, materials or a shipment that won't fit in a car and you're not sure who to call. Here it's simple: we put a cargo van with driver at your disposal whenever you need it, with the reliability and manner of a transport company that's been doing this for years. You tell us what and where; we take it there.",
+           "de":"Du musst Waren, Material oder eine Sendung bewegen, die nicht ins Auto passt, und weißt nicht, wen du anrufen sollst. Hier ist es einfach: Wir stellen dir einen Transporter mit Fahrer bereit, wann immer du ihn brauchst – mit der Zuverlässigkeit und Art eines Transportunternehmens, das seit Jahren dabei ist. Du sagst uns, was und wohin; wir bringen es hin."},
   "secs":{
-    "es":[("Furgoneta con conductor para lo que necesites","Reparto de mercancía, entregas de última milla, material de eventos, mobiliario o envíos que no caben en un coche. Un solo contacto y facturación sencilla para empresas.",
-           ["Servicio puntual o recurrente para empresas.","Entregas de última milla y paquetería voluminosa.","Cobertura en toda Mallorca, con seguro de mercancías."]),
-          ("Para empresas y particulares","Trabajamos con comercios, eventos y particulares que necesitan transporte ágil sin contratar un camión completo.",[])],
-    "en":[("A cargo van with driver for whatever you need","Goods distribution, last-mile deliveries, event materials, furniture or shipments that don't fit in a car. One contact and simple invoicing for businesses.",
-           ["One-off or recurring service for businesses.","Last-mile deliveries and bulky parcels.","Island-wide coverage, with goods insurance."]),
-          ("For businesses and individuals","We work with shops, events and individuals who need agile transport without hiring a full truck.",[])],
-    "de":[("Ein Transporter mit Fahrer für alles, was du brauchst","Warenverteilung, Lieferungen auf der letzten Meile, Eventmaterial, Möbel oder Sendungen, die nicht ins Auto passen. Ein Ansprechpartner und einfache Abrechnung für Unternehmen.",
-           ["Einmaliger oder wiederkehrender Service für Unternehmen.","Lieferungen auf der letzten Meile und sperrige Pakete.","Inselweite Abdeckung, mit Warenversicherung."]),
-          ("Für Unternehmen und Privatpersonen","Wir arbeiten mit Geschäften, Events und Privatpersonen, die agilen Transport brauchen, ohne einen ganzen Lkw zu mieten.",[])],
+    "es":[("Una furgoneta con conductor para casi todo","Reparto de mercancía, entregas de última milla, material para un evento, muebles o cualquier envío que se te resista en el coche. Un solo contacto, sin complicaciones, y si eres empresa te lo facturamos de forma sencilla para que no te compliques la contabilidad.",
+           ["Un día suelto o rutas fijas cada semana: como mejor te encaje.","Última milla y paquetería voluminosa, esa que nadie quiere subir por las escaleras.","Cubrimos toda Mallorca y tu mercancía va asegurada de principio a fin."]),
+          ("Para empresas y también para particulares","Nos llaman comercios, organizadores de eventos y particulares que necesitan mover algo ya, sin el lío ni el coste de contratar un camión entero. Traes lo que sea; nosotros ponemos la furgoneta y el conductor.",[])],
+    "en":[("A cargo van with driver for just about anything","Goods distribution, last-mile deliveries, kit for an event, furniture or any shipment that won't behave in a car. One contact, no fuss, and if you're a business we invoice it simply so your accounts stay easy.",
+           ["A single day or fixed weekly routes: whatever fits you best.","Last-mile and bulky parcels, the ones nobody wants to carry up the stairs.","We cover the whole of Mallorca and your goods are insured from start to finish."]),
+          ("For businesses, and for individuals too","Shops, event organisers and individuals call us when they need to move something now, without the hassle or cost of hiring a whole truck. You bring whatever it is; we bring the van and the driver.",[])],
+    "de":[("Ein Transporter mit Fahrer für fast alles","Warenverteilung, Lieferungen auf der letzten Meile, Ausrüstung für ein Event, Möbel oder jede Sendung, die im Auto nicht mitspielt. Ein Ansprechpartner, kein Aufwand, und als Unternehmen rechnen wir es dir einfach ab, damit deine Buchhaltung leicht bleibt.",
+           ["Ein einzelner Tag oder feste Routen pro Woche: ganz wie es dir passt.","Letzte Meile und sperrige Pakete – die, die niemand die Treppe hochtragen will.","Wir decken ganz Mallorca ab, und deine Ware ist von Anfang bis Ende versichert."]),
+          ("Für Unternehmen und auch für Privatpersonen","Geschäfte, Eventorganisatoren und Privatpersonen rufen uns an, wenn sie sofort etwas bewegen müssen, ohne den Aufwand und die Kosten eines ganzen Lkw. Du bringst, was es auch ist; wir bringen Transporter und Fahrer.",[])],
   },
   "faq":{
     "es":[("¿Cuánto cuesta una furgoneta con conductor en Mallorca?","Depende del volumen, la distancia y el tiempo. Cuéntanos qué necesitas mover y te damos un presupuesto claro al momento."),
@@ -297,19 +297,19 @@ SERVICES = [
           "en":"Secure storage and self storage in Mallorca: furniture, belongings and stock. Monthly, with pick-up and delivery. Ideal during moves and renovations.",
           "de":"Sichere Möbeleinlagerung und Lager auf Mallorca: Möbel, Hausrat und Warenbestand. Monatsweise, mit Abholung und Lieferung. Ideal bei Umzügen und Renovierungen."},
   "h1":{"es":"Guardamuebles y almacenaje en Mallorca","en":"Storage and self storage in Mallorca","de":"Möbeleinlagerung und Lager auf Mallorca"},
-  "intro":{"es":"¿Necesitas espacio para tus muebles o tu stock durante una mudanza o una reforma? Guardamos tus enseres de forma segura y te los llevamos de vuelta cuando los necesites.",
-           "en":"Need space for your furniture or stock during a move or a renovation? We store your belongings securely and bring them back whenever you need them.",
-           "de":"Brauchst du Platz für deine Möbel oder deinen Warenbestand während eines Umzugs oder einer Renovierung? Wir lagern deine Sachen sicher und bringen sie zurück, wann immer du sie brauchst."},
+  "intro":{"es":"A veces las fechas no cuadran: te vas de una casa antes de entrar en la otra, o la reforma se alarga y no sabes dónde meter los muebles mientras tanto. Tranquilo, para eso estamos. Guardamos tus cosas en un almacén seguro el tiempo que haga falta y te las llevamos de vuelta el día que estés listo.",
+           "en":"Sometimes the dates just don't line up: you leave one place before you can move into the next, or the renovation drags on and you've nowhere to put the furniture in the meantime. Relax, that's what we're here for. We keep your things in secure storage for as long as you need and bring them back the day you're ready.",
+           "de":"Manchmal passen die Termine einfach nicht: Du ziehst aus, bevor du in die nächste Wohnung kannst, oder die Renovierung zieht sich und du weißt nicht, wohin mit den Möbeln. Keine Sorge, dafür sind wir da. Wir lagern deine Sachen sicher ein, so lange du brauchst, und bringen sie zurück, sobald du bereit bist."},
   "secs":{
-    "es":[("Almacenaje flexible por meses","Guarda muebles, cajas o stock el tiempo que necesites, con recogida y entrega a domicilio. La solución perfecta entre dos mudanzas o durante una reforma.",
-           ["Custodia segura y asegurada.","Recogida y entrega a domicilio.","Combínalo con tu mudanza BaggageGo Moving."]),
-          ("Para residentes y empresas","Ideal para residentes que se mudan y para comercios que necesitan guardar stock de temporada.",[])],
-    "en":[("Flexible monthly storage","Store furniture, boxes or stock for as long as you need, with home pick-up and delivery. The perfect solution between two moves or during a renovation.",
-           ["Safe, insured custody.","Home pick-up and delivery.","Combine it with your BaggageGo Moving move."]),
-          ("For residents and businesses","Ideal for residents who are moving and for shops that need to store seasonal stock.",[])],
-    "de":[("Flexible monatliche Einlagerung","Lagere Möbel, Kartons oder Warenbestand so lange du brauchst, mit Abholung und Lieferung nach Hause. Die perfekte Lösung zwischen zwei Umzügen oder während einer Renovierung.",
-           ["Sichere, versicherte Verwahrung.","Abholung und Lieferung nach Hause.","Kombiniere sie mit deinem BaggageGo Moving Umzug."]),
-          ("Für Einwohner und Unternehmen","Ideal für Einwohner, die umziehen, und für Geschäfte, die saisonalen Warenbestand lagern müssen.",[])],
+    "es":[("Guarda por meses, el tiempo que haga falta","Muebles, cajas o stock: los guardamos el tiempo que necesites, ni un día de más. Y no tienes ni que acercarte al almacén, porque recogemos y entregamos en tu puerta. Es la solución perfecta para ese hueco entre dos mudanzas o mientras dura una reforma.",
+           ["Custodia segura y asegurada, con tus cosas a buen recaudo.","Recogida y entrega a domicilio: nosotros vamos, tú no te mueves.","Y si además te mudas, lo enlazamos con tu mudanza BaggageGo Moving en un solo servicio."]),
+          ("Para quien se instala y para quien tiene un negocio","Va de perlas si te estás mudando y necesitas ganar tiempo, y también para comercios que quieren quitarse de en medio el stock de temporada hasta que vuelva a hacer falta.",[])],
+    "en":[("Store by the month, for as long as you need","Furniture, boxes or stock: we keep them for as long as you need, not a day more. And you don't even have to go near the warehouse, because we collect and deliver to your door. It's the perfect fix for that gap between two moves or while a renovation runs its course.",
+           ["Safe, insured custody, with your things kept well out of harm's way.","Home pick-up and delivery: we come to you, you stay put.","And if you're moving too, we tie it into your BaggageGo Moving move as a single service."]),
+          ("For people settling in and for people running a business","It's a lifesaver if you're mid-move and need to buy time, and just as handy for shops wanting seasonal stock out of the way until it's needed again.",[])],
+    "de":[("Lagere monatsweise, so lange du brauchst","Möbel, Kartons oder Warenbestand: Wir verwahren sie, so lange du brauchst, keinen Tag länger. Und du musst nicht mal zum Lager, denn wir holen ab und liefern an deine Tür. Die perfekte Lösung für die Lücke zwischen zwei Umzügen oder während einer Renovierung.",
+           ["Sichere, versicherte Verwahrung – deine Sachen gut aufgehoben.","Abholung und Lieferung nach Hause: Wir kommen zu dir, du bleibst, wo du bist.","Und wenn du auch umziehst, verbinden wir es mit deinem BaggageGo Moving Umzug zu einem einzigen Service."]),
+          ("Für alle, die sich einleben, und für alle mit einem Geschäft","Ein Segen, wenn du mitten im Umzug steckst und Zeit gewinnen musst, und genauso praktisch für Geschäfte, die saisonalen Warenbestand aus dem Weg haben wollen, bis er wieder gebraucht wird.",[])],
   },
   "faq":{
     "es":[("¿Cómo se cobra el guardamuebles?","Por meses, según el volumen que necesites almacenar. Te damos un presupuesto a medida con recogida y entrega incluidas si las necesitas."),
@@ -331,19 +331,19 @@ SERVICES = [
           "en":"Bike transport in Mallorca: from the airport to your hotel and between accommodations. For cycling tourists and groups, with careful handling and insurance.",
           "de":"Fahrradtransport auf Mallorca: vom Flughafen zum Hotel und zwischen Unterkünften. Für Radtouristen und Gruppen, mit sorgfältiger Handhabung und Versicherung."},
   "h1":{"es":"Transporte de bicicletas en Mallorca","en":"Bike transport in Mallorca","de":"Fahrradtransport auf Mallorca"},
-  "intro":{"es":"Mallorca es un paraíso ciclista. Llevamos tu bicicleta del aeropuerto a tu hotel y entre alojamientos, para que llegues y pedalees sin preocuparte del transporte.",
-           "en":"Mallorca is a cyclist's paradise. We take your bike from the airport to your hotel and between accommodations, so you arrive and ride without worrying about transport.",
-           "de":"Mallorca ist ein Radparadies. Wir bringen dein Fahrrad vom Flughafen zu deinem Hotel und zwischen Unterkünften, damit du ankommst und fährst, ohne dir Gedanken über den Transport zu machen."},
+  "intro":{"es":"Mallorca es de esos sitios con los que sueña cualquier ciclista, pero mover la bici por la isla con la funda a cuestas es lo menos divertido del viaje. Ahí entramos nosotros: la recogemos en el aeropuerto, te la llevamos al hotel y la movemos entre alojamientos, para que tú solo tengas que pensar en rodar.",
+           "en":"Mallorca is one of those places every cyclist dreams about, but hauling your bike around the island in its bag is the least fun part of the trip. That's where we come in: we collect it at the airport, take it to your hotel and move it between places to stay, so all you have to think about is riding.",
+           "de":"Mallorca ist einer dieser Orte, von denen jeder Radfahrer träumt, aber das Rad in der Tasche über die Insel zu schleppen ist der langweiligste Teil der Reise. Genau hier kommen wir ins Spiel: Wir holen es am Flughafen ab, bringen es zu deinem Hotel und bewegen es zwischen Unterkünften, damit du nur ans Fahren denken musst."},
   "secs":{
-    "es":[("Del aeropuerto al hotel y entre etapas","Transportamos bicicletas de carretera y de montaña, en caja o montadas, con manipulación cuidadosa. Coordinamos con tu itinerario por la Tramuntana.",
-           ["Recogida en el aeropuerto PMI.","Traslado entre hoteles en rutas de varias etapas.","Servicio para grupos, clubes y tour operadores."]),
-          ("Combínalo con tu equipaje","Movemos bici y maletas a la vez, para que viajes totalmente ligero.",[])],
-    "en":[("From the airport to your hotel and between stages","We transport road and mountain bikes, boxed or assembled, with careful handling. We coordinate with your Tramuntana itinerary.",
-           ["Pick-up at PMI airport.","Transfer between hotels on multi-stage routes.","Service for groups, clubs and tour operators."]),
-          ("Combine it with your luggage","We move bike and bags together, so you travel completely light.",[])],
-    "de":[("Vom Flughafen zum Hotel und zwischen Etappen","Wir transportieren Renn- und Mountainbikes, verpackt oder montiert, mit sorgfältiger Handhabung. Wir stimmen uns auf deine Tramuntana-Route ab.",
-           ["Abholung am Flughafen PMI.","Transfer zwischen Hotels auf mehrtägigen Routen.","Service für Gruppen, Vereine und Reiseveranstalter."]),
-          ("Kombiniere es mit deinem Gepäck","Wir bewegen Fahrrad und Gepäck gleichzeitig, damit du völlig leicht reist.",[])],
+    "es":[("Del aeropuerto al hotel y de etapa en etapa","Movemos bicis de carretera y de montaña, en caja o montadas, tratándolas con el cuidado que se merecen (sabemos lo que vale una buena bici). Nos ajustamos a tu ruta por la Tramuntana para que la tuya esté siempre donde tú vas a estar.",
+           ["Te la recogemos en el aeropuerto PMI nada más aterrizar.","La llevamos de un hotel al siguiente si haces la isla por etapas.","Y si venís club, grupo o con un tour operador, lo coordinamos todo desde un solo contacto."]),
+          ("Y de paso, tu equipaje también","No tiene sentido que la bici viaje sola. Movemos bici y maletas a la vez para que tú vayas del todo ligero, con las manos libres y la cabeza en la carretera.",[])],
+    "en":[("From the airport to your hotel and stage by stage","We move road and mountain bikes, boxed or assembled, handling them with the care they deserve (we know what a good bike is worth). We fit around your Tramuntana route so yours is always where you're going to be.",
+           ["We collect it at PMI airport the moment you land.","We take it from one hotel to the next if you're riding the island in stages.","And if you're a club, a group or with a tour operator, we coordinate it all through one contact."]),
+          ("And your luggage along with it","There's no sense in the bike travelling alone. We move bike and bags together so you travel completely light, hands free and mind on the road.",[])],
+    "de":[("Vom Flughafen zum Hotel und Etappe für Etappe","Wir bewegen Renn- und Mountainbikes, verpackt oder montiert, und behandeln sie mit der Sorgfalt, die sie verdienen (wir wissen, was ein gutes Rad wert ist). Wir richten uns nach deiner Tramuntana-Route, damit deins immer dort ist, wo du sein wirst.",
+           ["Wir holen es am Flughafen PMI ab, sobald du landest.","Wir bringen es von einem Hotel zum nächsten, wenn du die Insel in Etappen fährst.","Und als Verein, Gruppe oder mit einem Reiseveranstalter koordinieren wir alles über einen Ansprechpartner."]),
+          ("Und dein Gepäck gleich mit","Es ergibt keinen Sinn, dass das Rad allein reist. Wir bewegen Fahrrad und Gepäck zusammen, damit du völlig leicht unterwegs bist – freie Hände, Kopf auf der Straße.",[])],
   },
   "faq":{
     "es":[("¿Transportáis la bici desde el aeropuerto?","Sí, recogemos tu bicicleta en el aeropuerto PMI y la entregamos en tu hotel o villa, montada o en caja."),
@@ -365,19 +365,19 @@ SERVICES = [
           "en":"Man with a van in Mallorca: transport of single furniture items, small moves, sofas, mattresses and IKEA purchases. Fast, urgent and insured.",
           "de":"Möbeltransport auf Mallorca: Einzelmöbel, kleine Umzüge, Sofas, Matratzen und IKEA-Einkäufe. Schnell, dringend und versichert."},
   "h1":{"es":"Portes en Palma de Mallorca","en":"Man with a van in Mallorca","de":"Möbeltransport auf Mallorca"},
-  "intro":{"es":"¿Necesitas mover un mueble, un sofá o hacer una mini mudanza sin contratar un camión entero? Nuestros portes en Palma y toda Mallorca son rápidos, económicos y con opción urgente.",
-           "en":"Need to move a piece of furniture, a sofa or do a small move without hiring a whole truck? Our man-with-a-van service in Palma and across Mallorca is fast, affordable and available urgently.",
-           "de":"Musst du ein Möbelstück oder ein Sofa bewegen oder einen kleinen Umzug machen, ohne einen ganzen Lkw zu mieten? Unser Möbeltransport in Palma und auf ganz Mallorca ist schnell, günstig und auch dringend verfügbar."},
+  "intro":{"es":"Ese sofá nuevo, el colchón que no entra en el coche o las cuatro cajas que tienes que cambiar de piso no merecen el lío de contratar un camión entero. Para eso está un buen porte: rápido, a buen precio y, si te corre prisa, en el mismo día. En Palma y en toda Mallorca, tú nos dices qué hay que mover y nosotros aparecemos con la furgoneta.",
+           "en":"That new sofa, the mattress that won't fit in the car or the few boxes you need to shift to another flat don't warrant the hassle of hiring a whole truck. That's what a good man with a van is for: fast, well priced and, if you're in a hurry, same day. In Palma and across Mallorca, you tell us what needs moving and we show up with the van.",
+           "de":"Das neue Sofa, die Matratze, die nicht ins Auto passt, oder die paar Kartons, die in eine andere Wohnung müssen, sind keinen ganzen Lkw wert. Genau dafür gibt es einen guten Möbeltransport: schnell, günstig und, wenn es eilt, am selben Tag. In Palma und auf ganz Mallorca sagst du uns, was zu bewegen ist, und wir tauchen mit dem Transporter auf."},
   "secs":{
-    "es":[("Portes y transporte de muebles sueltos","Llevamos sofás, colchones, electrodomésticos, cajas o cualquier mueble suelto de un punto a otro. Ideal para compras de IKEA o Leroy Merlín, ventas de segunda mano y traslados puntuales.",
-           ["Furgoneta con conductor y, si hace falta, ayudante.","Servicio urgente y en el mismo día.","Montaje y desmontaje de muebles a petición."]),
-          ("Mini mudanzas rápidas","Para estudios, habitaciones o pisos pequeños, una mini mudanza es más rápida y barata que una mudanza completa. Reserva ágil y precio cerrado.",[])],
-    "en":[("Single-item furniture transport","We move sofas, mattresses, appliances, boxes or any single furniture item from A to B. Ideal for IKEA or Leroy Merlín purchases, second-hand sales and one-off transfers.",
-           ["A van with driver and, if needed, a helper.","Urgent, same-day service.","Furniture assembly and disassembly on request."]),
-          ("Fast small moves","For studios, single rooms or small flats, a small move is faster and cheaper than a full removal. Quick booking and a fixed price.",[])],
-    "de":[("Transport einzelner Möbelstücke","Wir bewegen Sofas, Matratzen, Geräte, Kartons oder jedes einzelne Möbelstück von A nach B. Ideal für IKEA- oder Leroy-Merlín-Einkäufe, Gebrauchtverkäufe und einmalige Transporte.",
-           ["Transporter mit Fahrer und bei Bedarf Helfer.","Dringender Service, am selben Tag.","Möbelmontage und -demontage auf Anfrage."]),
-          ("Schnelle kleine Umzüge","Für Studios, einzelne Zimmer oder kleine Wohnungen ist ein kleiner Umzug schneller und günstiger als ein kompletter Umzug. Schnelle Buchung und Festpreis.",[])],
+    "es":[("Portes y muebles sueltos, sin dramas","Sofás, colchones, electrodomésticos, cajas o ese mueble raro que no sabes cómo mover: lo llevamos de un punto a otro y ya está. Es justo lo que necesitas después de una compra en IKEA o Leroy Merlín, para cerrar una venta de segunda mano o para un traslado puntual que no da para una mudanza.",
+           ["Vamos con furgoneta y conductor, y si el mueble pesa, con un ayudante.","¿Te corre prisa? Hacemos portes urgentes y en el mismo día si hay hueco.","Y si lo necesitas, montamos y desmontamos el mueble, no solo lo movemos."]),
+          ("Mini mudanzas: lo justo, sin pagar de más","Para un estudio, una habitación o un piso pequeño, montar una mudanza completa es matar moscas a cañonazos. Una mini mudanza es más rápida, más barata y se reserva en un momento, con precio cerrado y sin sorpresas al final.",[])],
+    "en":[("Single items, moved without the drama","Sofas, mattresses, appliances, boxes or that awkward piece you've no idea how to shift: we take it from one place to another and that's that. It's exactly what you need after an IKEA or Leroy Merlín run, to close a second-hand sale, or for a one-off move that doesn't warrant a full removal.",
+           ["We come with a van and driver, and if it's heavy, a helper too.","In a rush? We do urgent and same-day jobs whenever there's a slot.","And if you need it, we assemble and disassemble the furniture, not just move it."]),
+          ("Small moves: just enough, without overpaying","For a studio, a single room or a small flat, arranging a full removal is using a sledgehammer to crack a nut. A small move is quicker, cheaper and booked in a moment, with a fixed price and no surprises at the end.",[])],
+    "de":[("Einzelstücke, bewegt ohne Drama","Sofas, Matratzen, Geräte, Kartons oder dieses sperrige Teil, bei dem du keine Ahnung hast, wie du es bewegen sollst: Wir bringen es von einem Ort zum anderen, fertig. Genau das, was du nach einem IKEA- oder Leroy-Merlín-Einkauf brauchst, um einen Gebrauchtverkauf abzuschließen oder für einen einmaligen Transport, der keinen kompletten Umzug wert ist.",
+           ["Wir kommen mit Transporter und Fahrer, und wenn es schwer ist, mit einem Helfer.","Eilt es? Wir machen dringende Transporte am selben Tag, sofern ein Platz frei ist.","Und wenn du willst, bauen wir das Möbel auf und ab, nicht nur bewegen wir es."]),
+          ("Mini-Umzüge: genau das Richtige, ohne zu viel zu zahlen","Für ein Studio, ein einzelnes Zimmer oder eine kleine Wohnung ist ein kompletter Umzug mit Kanonen auf Spatzen geschossen. Ein Mini-Umzug ist schneller, günstiger und im Handumdrehen gebucht, mit Festpreis und ohne Überraschungen am Ende.",[])],
   },
   "faq":{
     "es":[("¿Cuánto cuesta un porte en Palma de Mallorca?","Los portes suelen ir desde 20–50 € según el volumen, la distancia y la urgencia. Cuéntanos qué necesitas mover y te damos precio al momento."),
@@ -704,10 +704,19 @@ def url_abs(path):
     return DOMAIN + "/" + p
 
 def rel(from_path, to_path):
-    """URL relativa (para file:// y hosting) de from_path a to_path."""
+    """URL relativa LIMPIA (sin .html) de from_path a to_path — cero redirects 308 en Cloudflare.
+    Respeta anclas #fragment (las separa, limpia la ruta y las vuelve a unir)."""
+    frag = ""
+    if "#" in to_path:
+        to_path, f = to_path.split("#", 1)
+        frag = "#" + f
     fd = os.path.dirname(from_path)
-    r = os.path.relpath(to_path, fd if fd else ".")
-    return r.replace("\\", "/")
+    r = os.path.relpath(to_path, fd if fd else ".").replace("\\", "/")
+    if r.endswith("index.html"):
+        r = r[:-len("index.html")] or "./"   # index.html -> ./ ; ../index.html -> ../
+    elif r.endswith(".html"):
+        r = r[:-5]
+    return r + frag
 
 def group_paths(group):
     """dict lang->path para un grupo (para hreflang y selector idioma)."""
@@ -744,6 +753,11 @@ def head(lang, title, desc, out_path, group, jsonld_list):
 <meta property="og:locale" content="{og_locale}">
 <meta property="og:url" content="{canonical}">
 <meta property="og:site_name" content="{BRAND} Mallorca">
+<meta property="og:image" content="{DOMAIN}/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{DOMAIN}/og-image.png">
 <meta name="robots" content="index,follow">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700;800&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
@@ -842,10 +856,15 @@ def jsonld_faq(faq):
     return '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[%s]}' % q
 
 def jsonld_localbusiness():
-    return ('{"@context":"https://schema.org","@type":"MovingCompany","name":"%s Mallorca",'
-            '"description":"Entrega de equipaje y mudanzas en Mallorca","areaServed":"Mallorca",'
-            '"url":"%s","telephone":"%s","email":"%s","address":{"@type":"PostalAddress","addressLocality":"%s","addressRegion":"Illes Balears","addressCountry":"ES"}}'
-            % (BRAND, DOMAIN, PHONE_DISPLAY, EMAIL, CITY))
+    return ('{"@context":"https://schema.org","@type":"MovingCompany","@id":"%(d)s/#business",'
+            '"name":"%(b)s Mallorca","description":"Entrega de equipaje, transporte y mudanzas en Mallorca",'
+            '"url":"%(d)s/","logo":"%(d)s/og-image.png","image":"%(d)s/og-image.png",'
+            '"telephone":"%(p)s","email":"%(e)s","priceRange":"€€","currenciesAccepted":"EUR",'
+            '"areaServed":{"@type":"AdministrativeArea","name":"Mallorca, Illes Balears"},'
+            '"address":{"@type":"PostalAddress","addressLocality":"%(c)s","addressRegion":"Illes Balears","addressCountry":"ES"},'
+            '"geo":{"@type":"GeoCoordinates","latitude":39.5696,"longitude":2.6502},'
+            '"sameAs":["https://wa.me/%(w)s"]}'
+            % {"d":DOMAIN,"b":BRAND,"p":PHONE_DISPLAY,"e":EMAIL,"c":CITY,"w":WA})
 
 def _json(s):
     return '"' + s.replace("\\","\\\\").replace('"','\\"').replace("\n"," ") + '"'
