@@ -3,7 +3,7 @@
   var b=document.querySelector('.burger'), m=document.querySelector('.menu');
   if(b&&m)b.addEventListener('click',function(){m.style.display=(getComputedStyle(m).display==='none'?'flex':'none')});
 })();
-var WA='34600000000';
+var WA='34686822291';
 function waOpen(msg){var t=encodeURIComponent(msg||'Hola BaggageGo, quiero información.');window.open('https://wa.me/'+WA+'?text='+t,'_blank');return false;}
 function quote(){
   var g=function(id){var e=document.getElementById(id);return e?e.value:'';};

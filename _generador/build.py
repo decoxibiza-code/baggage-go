@@ -12,8 +12,8 @@ import os, html, shutil
 # ---------------------------------------------------------------- CONFIG
 DOMAIN = "https://baggage-go.com"  # dominio real (comprado)
 BRAND  = "BaggageGo"
-PHONE_DISPLAY = "+34 600 000 000"  # <-- tu telefono real
-WA = "34600000000"                 # <-- tu WhatsApp real (sin + ni espacios)
+PHONE_DISPLAY = "+34 686 822 291"  # WhatsApp / telefono real
+WA = "34686822291"                 # WhatsApp real (sin + ni espacios) para wa.me
 EMAIL = "hola@baggage-go.com"      # <-- confirma/crea este email real
 CITY = "Palma de Mallorca"
 
