@@ -14,7 +14,7 @@ DOMAIN = "https://baggage-go.com"  # dominio real (comprado)
 BRAND  = "BaggageGo"
 PHONE_DISPLAY = "+34 686 822 291"  # WhatsApp / telefono real
 WA = "34686822291"                 # WhatsApp real (sin + ni espacios) para wa.me
-EMAIL = "hola@baggage-go.com"      # <-- confirma/crea este email real
+EMAIL = "hey@baggage-go.com"       # correo corporativo (Cloudflare Email Routing -> Gmail)
 CITY = "Palma de Mallorca"
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
