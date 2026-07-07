@@ -33,7 +33,7 @@ UI = {
    "foot_company":"Una empresa de TVM Events.","coverage":"Toda Mallorca",
    "hero_cta2":"Presupuesto de mudanza","insured":"Asegurado","allisland":"Toda la isla",
    "breadcrumb":"Estás en","need_t":"¿Qué necesitas?","send":"Enviar solicitud",
-   "price_from":"desde","draft":"Web borrador · sustituir teléfono, email y precios antes de publicar.",
+   "price_from":"desde","draft":"Servicio en toda Mallorca · Presupuesto sin compromiso.",
  },
  "en": {
    "nav": [("Services","#servicios"),("Areas","#zonas"),("How it works","how-it-works"),
@@ -46,7 +46,7 @@ UI = {
    "foot_company":"A TVM Events company.","coverage":"All of Mallorca",
    "hero_cta2":"Moving quote","insured":"Insured","allisland":"Whole island",
    "breadcrumb":"You are here","need_t":"What do you need?","send":"Send request",
-   "price_from":"from","draft":"Draft site · replace phone, email and prices before going live.",
+   "price_from":"from","draft":"Service across Mallorca · Free, no-obligation quote.",
  },
  "de": {
    "nav": [("Leistungen","#servicios"),("Gebiete","#zonas"),("Ablauf","how-it-works"),
@@ -59,7 +59,7 @@ UI = {
    "foot_company":"Ein Unternehmen von TVM Events.","coverage":"Ganz Mallorca",
    "hero_cta2":"Umzugsangebot","insured":"Versichert","allisland":"Ganze Insel",
    "breadcrumb":"Sie sind hier","need_t":"Was brauchst du?","send":"Anfrage senden",
-   "price_from":"ab","draft":"Entwurf · Telefon, E-Mail und Preise vor dem Livegang ersetzen.",
+   "price_from":"ab","draft":"Service auf ganz Mallorca · Kostenloses Angebot.",
  },
 }
 
@@ -635,7 +635,7 @@ header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.85);backdro
 .article li:after{content:"";position:absolute;left:5px;top:12px;width:6px;height:3px;border-left:2px solid var(--teal-d);border-bottom:2px solid var(--teal-d);transform:rotate(-45deg)}
 .faq{background:var(--soft)}.faq .wrap{max-width:860px}.qa{background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:20px 22px;margin-bottom:12px}.qa h3{font-size:1.05rem;color:var(--navy);margin-bottom:6px}.qa p{color:var(--muted);font-size:.96rem}
 .related{padding:52px 0}.rel-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.rel{background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:18px 20px;font-weight:600;color:var(--navy);display:flex;justify-content:space-between;align-items:center;gap:10px;transition:.2s}.rel:hover{border-color:var(--teal);color:var(--teal-d);transform:translateY(-3px)}
-.ctaband{background:linear-gradient(135deg,#0B2545,#1D4E89);color:#fff}.ctaband .wrap{text-align:center;padding:52px 22px}.ctaband h2{font-size:1.9rem;font-weight:800;margin-bottom:8px}.ctaband p{color:#d7e3f2;max-width:560px;margin:0 auto 22px}
+.ctaband{background:linear-gradient(135deg,#081629,#12345E);color:#fff}.ctaband .wrap{text-align:center;padding:52px 22px}.ctaband h2{font-size:1.9rem;font-weight:800;margin-bottom:8px}.ctaband p{color:#d7e3f2;max-width:560px;margin:0 auto 22px}.ctaband .cc{margin-top:20px;font-size:.97rem;color:#c9d6e5}.ctaband .cc a{color:var(--teal);font-weight:600}.ctaband .cc a:hover{color:#E7D4A3}.ctaband .cc span{color:#5f7a99;margin:0 8px}
 .chips{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:8px}.chip{background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:20px;text-align:center}.chip .n{font-family:'Poppins';font-weight:800;font-size:1.6rem;color:var(--teal-d)}.chip .t{color:var(--muted);font-size:.92rem}
 .prices{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}.price{background:#fff;border:1px solid var(--line);border-radius:var(--r);padding:24px 20px;text-align:center}.price .t{font-weight:600;color:var(--navy);margin-bottom:6px}.price .n{font-family:'Poppins';font-weight:800;font-size:1.9rem;color:var(--teal-d)}.price .n small{font-size:.78rem;color:var(--muted);font-weight:600}.price .d{font-size:.84rem;color:var(--muted);margin-top:6px}
 .form{background:#fff;border:1px solid var(--line);border-radius:var(--r-lg);padding:26px;box-shadow:var(--shadow);max-width:560px}.form .btn{width:100%;justify-content:center}
@@ -879,9 +879,11 @@ def write(path, content):
 def cta_band(lang, out_path):
     ui = UI[lang]
     contact = rel(out_path, LANG_BASE[lang] + INFO_SLUG["contacto"][lang] + ".html")
+    lbl = {"es":"o escríbenos directamente","en":"or reach us directly","de":"oder schreib uns direkt"}[lang]
     return f"""<section class="ctaband"><div class="wrap">
 <h2>{esc(ui['cta_band_t'])}</h2><p>{esc(ui['cta_band_p'])}</p>
 <a href="{contact}" class="btn btn-primary">{esc(ui['cta_main'])}</a>
+<div class="cc">{esc(lbl)}: <a href="https://wa.me/{WA}" target="_blank" rel="noopener">WhatsApp {esc(PHONE_DISPLAY)}</a> <span>·</span> <a href="mailto:{EMAIL}">{EMAIL}</a></div>
 </div></section>"""
 
 # related services block
